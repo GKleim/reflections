@@ -19,3 +19,10 @@ You can compare the changes to the working directory with the last file in the
 staged area before you commit. If you made significant changes since you added
 the file to the staging area, you can commit the file in the staging area
 before continuing work on the file in the working directory.
+
+What are some situations when braches would be helpful in keeping history
+organized? How would branches help?
+
+Branches are useful for experimentation. An example of experimetation might be
+multiple people working on the same problem independently. Branches allow
+people to make changes to the program without affecting other people's work.

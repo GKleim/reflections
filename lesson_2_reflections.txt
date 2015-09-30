@@ -11,3 +11,11 @@ The repository is a container of files that are being monitored for changes.
 You may not need all of your files to be monitored for changes. Monitoring all
 files might slow down your computer or network. The separation of the
 repository from the working directory is required for efficiency.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can compare the changes to the working directory with the last file in the
+staged area before you commit. If you made significant changes since you added
+the file to the staging area, you can commit the file in the staging area
+before continuing work on the file in the working directory.

@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, a .git file is created. This file must
+contain the files that run the version control procedures.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+The working directory is just your container of files related to your project.
+The repository is a container of files that are being monitored for changes.
+You may not need all of your files to be monitored for changes. Monitoring all
+files might slow down your computer or network. The separation of the
+repository from the working directory is required for efficiency.

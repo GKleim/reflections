@@ -26,3 +26,7 @@ organized? How would branches help?
 Branches are useful for experimentation. An example of experimetation might be
 multiple people working on the same problem independently. Branches allow
 people to make changes to the program without affecting other people's work.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams allow you to see how the computer structures the commits.

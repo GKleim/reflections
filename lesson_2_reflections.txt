@@ -37,3 +37,12 @@ the diagram the way we do?
 Merging two branches together combines the code in the two files according to
 an algorithm. It is represented in the diagram as it is because the branches
 become no longer independent.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Pros: Automatic merging merges files quickly when the changes are
+straightforward. It completes the merge alot faster than you could do it by
+hand.
+
+Cons: Sometimes more complicated changes are muddled by the automatic merging.

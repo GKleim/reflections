@@ -17,4 +17,8 @@ use one instead of another?
 Clone is when you make a copy of repository on your local machine either of
 either a local repo or a repo on GitHub. Fork is when you copy a repository
 from someones GitHub profile to your GitHub profile. Branch is when you create
-a new path in your current repository. 
+a new path in your current repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The remote could be the master file for a project. Your goal might be to create a new feature for that project that does not break anything unrelated to your new feature. You may want to be able to reference the original file that you will eventully need to merge back into after your working copy becomes filled with new code.

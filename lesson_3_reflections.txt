@@ -10,3 +10,11 @@ automatically stay up-to-date with your repository?
 
 You do not want Git automatically pull changes from your repo because you may
 not want all commits from other users on your computer.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Clone is when you make a copy of repository on your local machine either of
+either a local repo or a repo on GitHub. Fork is when you copy a repository
+from someones GitHub profile to your GitHub profile. Branch is when you create
+a new path in your current repository. 

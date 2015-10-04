@@ -26,3 +26,11 @@ a new feature for that project that does not break anything unrelated to your
 new feature. You may want to be able to reference the original file that you
 will eventully need to merge back into after your working copy becomes filled
 with new code.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+You would have to collaborate by sharing your computer screens or sending files
+through email. Sharing by email has a smaller learning curve than Git and
+GitHub. It would be harder to track all changes logically and simply with just
+sending files through email.

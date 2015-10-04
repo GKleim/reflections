@@ -34,3 +34,13 @@ You would have to collaborate by sharing your computer screens or sending files
 through email. Sharing by email has a smaller learning curve than Git and
 GitHub. It would be harder to track all changes logically and simply with just
 sending files through email.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+Make change in a separate branch when the change is experimental. Add changes
+to master if you know you will be collaborating with people and your changes
+are expected to be merged into everyone's master copy in the end. Using
+separate branches is nice for organizing experimental changes or different
+verison of a project. Using the master branch is best for linear, well
+understood work in a project setting.
